@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 46d7a0438fedc534ea5956d8aef5d612
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redBulletPrefab: {fileID: 1699075690201296, guid: 8ffec8ea8a866dd48b0db2fbe5d1fe13,
+      type: 2}
+  - yellowBulletPrefab: {instanceID: 0}
+  - blueBulletPrefab: {instanceID: 0}
+  - redBulletReticlePrefab: {instanceID: 0}
+  - yellowBulletReticlePrefab: {instanceID: 0}
+  - blueBulletReticlePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
