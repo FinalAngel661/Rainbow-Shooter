@@ -1,0 +1,28 @@
+Rainbow Shooter Design Plan
+
+
+
+
+
+
+Mechanics -
+
+- Rock-paper-scissors system - that dictates which color overpowers the other Yellow beats Blue, Blue beats Red, and Red beats Yellow.
+
+- Shooting Mechanic – This stems off the RPS system by pressing Z you can switch what color bullets you have to defeat certain colored enemies (Z is just a placeholder for now we can change it later)
+
+- Defense Mechanic – This mechanic also stems off the RPS system by pressing X you can change the players color to become immune to the color bullet the player is.
+
+- Health Mechanic – Enemies die instantly by getting hit with the stronger color, player gets 3 hits before the player can die, bosses can take 10 hits 5 for each color they need to get hit by.
+
+Controls -
+
+Rainbow Shooter will be using a point and click system with a constant speed so the game can go at a decent pace shooting will be done with a right mouse click, and as known switching bullet colors is done with the Z button, and switching the players color is done using the X button.
+
+
+Level Design -
+
+Rainbow Shooter will be a top down arcade shooter with wide areas to allow for bullet hell, the game will be 3 levels each containing a boss that is a secondary color that requires players to take down a boss by shooting them with what colors the enemy is made of.
+
+
+
